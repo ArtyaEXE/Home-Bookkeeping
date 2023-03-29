@@ -1,4 +1,5 @@
-# money-checker
+# Home Bookkeeper
+money-checker-vue.web.app
 
 ## Project setup
 ```
