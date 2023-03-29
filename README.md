@@ -1,25 +1,20 @@
-# Home Bookkeeper
-money-checker-vue.web.app
+Expense and Income Tracker
 
-## Project setup
-```
-npm install
-```
+This is a web application for tracking expenses and income. It is built with Vue.js version 2 and utilizes normalize.css and chart.js libraries. The application supports two languages, English and Russian, and uses Firebase as its database. Users can register and login to the application to keep track of their expenses and income.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Features
++ Expense and income tracking
++ Language support for English and Russian
++ User registration and login
++ Data stored on Firebase database
++ Data visualization with chart.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Dependencies
++ Vue.js version 2
++ normalize.css
++ chart.js
++ Firebase
 
-### Lints and fixes files
-```
-npm run lint
-```
+Contributing
+Contributions are welcome. Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions for improvement.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
